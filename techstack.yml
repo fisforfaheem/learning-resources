@@ -1,0 +1,18 @@
+repo_name: fisforfaheem/learning-resources
+report_id: 694afb855495c4f3aee047be8c59832b
+repo_type: Public
+timestamp: '2023-11-10T06:47:25+00:00'
+requested_by: rashidwassan
+provider: github
+branch: main
+detected_tools_count: 1
+tools:
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source: Repo Metadata
